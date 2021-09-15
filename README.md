@@ -1,7 +1,7 @@
-- 👋 Hi, I’m currently working as a backend developer at Atos
-- 🌱 I’m constantly learning new things in backend development
+- 👋 Hi, I’m currently working as an associate consultant at Atos Syntel
+- 🌱 I’m constantly learning new things in frontend development
 - 💞️ I’m looking to collaborate on solving problems
-- 📫 How to reach me: https://www.linkedin.com/in/debashis-saha-6554ab169/
+- 📫 How to reach me: https://www.linkedin.com/in/me-debashis-saha/
 
 
 
